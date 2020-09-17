@@ -7,3 +7,6 @@ enabled = true
   [analyzers.meta]
   module_system = "commonjs"
   environment = ["nodejs"]
+  dependency_file_paths = [
+  "app/"
+  ]
