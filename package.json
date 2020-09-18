@@ -5,7 +5,6 @@
   "repository": "git@github-work:siddhant-deepsource/test-repo.git",
   "author": "sidntrivedi012 <sidntrivedi012@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
   "dependencies": {
     "eslint": "^7.9.0"
   }
