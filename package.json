@@ -6,7 +6,7 @@
   "author": "sidntrivedi012 <sidntrivedi012@gmail.com>",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^7.9.0"
   }
 }
