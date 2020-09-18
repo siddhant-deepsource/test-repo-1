@@ -6,6 +6,7 @@ function doIf() {
   console.log(build);
 }
 
+// hello world
 function doIfElse() {
   if (true) {
     var build = true;
