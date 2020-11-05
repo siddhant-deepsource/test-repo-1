@@ -10,3 +10,4 @@ enabled = true
   dependency_file_paths = [
   "app/"
   ]
+  dialect = "typescript"
