@@ -1,3 +1,5 @@
 {
-    "extends": "@excalibur-enterprise/eslint-config-xclbr/ts"
+    "rules": {
+        "arrow-spacing": [{"before":true,"after":true},"error",{"before":true,"after":true},"error",{"before":true,"after":true}]
+    }
 }
