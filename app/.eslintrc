@@ -1,5 +1,3 @@
 {
-    "rules": {
-        "arrow-spacing": [{"before":true,"after":true},"error",{"before":true,"after":true},"error",{"before":true,"after":true}]
-    }
+   "extends": "airbnb"
 }
