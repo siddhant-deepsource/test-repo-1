@@ -1,3 +1,6 @@
 {
-    "extends": "@excalibur-enterprise/eslint-config-xclbr/ts"
+   "extends": "airbnb",
+   "rules": {
+   "curly":"error"
+   }
 }
