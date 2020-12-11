@@ -1,5 +1,9 @@
 version = 1
 
+exclude_paaterns = [
+  '**/examples/**'
+]
+
 [[transformers]]
     name = "prettier"
     enabled = true
