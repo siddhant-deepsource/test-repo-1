@@ -5,3 +5,7 @@ if (foo) { bar }\n++baz;
 do {foo();} while (bar)
 
 do{[1, 2, 3].map(bar);} while (bar)
+
+if (foo) bar()
+
+if (foo) { bar() } else baz()
