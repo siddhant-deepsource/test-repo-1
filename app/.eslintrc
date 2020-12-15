@@ -1,6 +1,7 @@
 {
    "extends": "eslint:recommended",
    "rules": {
-      "curly": "error"
+      "curly": "error",
+      "dot-notation": "error"
    }
 }
