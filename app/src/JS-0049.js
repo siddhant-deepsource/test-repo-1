@@ -9,3 +9,5 @@ let foo = {
 }
 
 foo[/* comment */ 'bar']
+
+foo[('bar')]
