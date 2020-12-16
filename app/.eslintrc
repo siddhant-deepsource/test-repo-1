@@ -1,12 +1,18 @@
 {
-   "extends": "eslint:recommended",
+   "plugins": ["@typescript-eslint"],
+   "extends": [
+      "eslint:recommended", 
+      "plugin:@typescript-eslint/recommended",
+      "plugin:@typescript-eslint/recommended-requiring-type-checking"
+   ],
    "rules": {
       "curly": "error",
       "dot-notation": "error",
       "eqeqeq": "error",
       "no-else-return":"error",
       "no-extra-bind": "error",
-      "no-extra-label":"error",
-      "no-implicit-coercion" :"error"
+      "no-extra-label": "error",
+      "no-implicit-coercion": "error",
+      "@typescript-eslint/explicit-member-accessibility": "error"
    }
 }
