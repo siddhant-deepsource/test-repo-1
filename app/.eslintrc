@@ -3,6 +3,7 @@
    "rules": {
       "curly": "error",
       "dot-notation": "error",
-      "eqeqeq": "error"
+      "eqeqeq": "error",
+      "no-else-return":"error"
    }
 }
