@@ -6,6 +6,7 @@
       "eqeqeq": "error",
       "no-else-return":"error",
       "no-extra-bind": "error",
-      "no-extra-label":"error"
+      "no-extra-label":"error",
+      "no-implicit-coercion" :"error"
    }
 }
