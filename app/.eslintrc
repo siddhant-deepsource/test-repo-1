@@ -5,6 +5,7 @@
       "dot-notation": "error",
       "eqeqeq": "error",
       "no-else-return":"error",
-      "no-extra-bind": "error"
+      "no-extra-bind": "error",
+      "no-extra-label":"error"
    }
 }
