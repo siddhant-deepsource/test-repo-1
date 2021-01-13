@@ -1,24 +1,24 @@
 function doIf() {
   if (true) {
-    var build = true;
+    var build = true
   }
 
-  console.log(build);
+  console.log(build)
 }
 
 // hello world
 function doIfElse() {
   if (true) {
-    var build = true;
+    var build = true
   } else {
-    var build = false;
+    var build = false
   }
 }
 
 function doTryCatch() {
   try {
-    var build = 1;
+    var build = 1
   } catch (e) {
-    var f = build;
+    var f = build
   }
 }
