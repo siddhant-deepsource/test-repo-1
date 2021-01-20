@@ -10,4 +10,4 @@ let foo = {
 
 foo[/* comment */ 'bar']
 
-foo[('bar')]
+foo['bar']
